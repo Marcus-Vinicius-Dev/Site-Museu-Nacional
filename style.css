@@ -199,7 +199,7 @@ legend{
 	/***************** Rodapé ****************/
 	footer{
 		clear: both;
-		padding-left: 20px;
+		padding-left: 5px;
 		text-align: left;
 		background: url(imagens/fundo-rodape.png) no-repeat center top;
 	}
